@@ -1,0 +1,15 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "A minimal Electron application for download spigotmc plugin",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "RENaa_FD",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "electron": "^31.3.0",
+    "electron-builder": "^24.13.3"
+  }
+}

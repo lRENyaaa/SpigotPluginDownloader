@@ -1,0 +1,3 @@
+rootProject.name = 'SpigotPluginDownloader'
+include 'log4j2-plugin'
+
